@@ -50,3 +50,4 @@ dist/
 .angular/
 env.js
 
+.env
