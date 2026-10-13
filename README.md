@@ -54,7 +54,7 @@ You'll receive a Google Calendar invite at the email you provided during the cal
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Darshan22112000/VoiceAgent.git
+git clone https://github.com/aditi-pawaskar06/VoiceAgent.git
 cd VoiceAgent
 ```
 
